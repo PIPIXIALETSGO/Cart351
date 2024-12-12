@@ -1,20 +1,20 @@
-Instructions
-Download the Folder
+# Multiplayer Game
 
-Download the project folder to your local machine.
-Open with VSCode
+This is a multiplayer game that requires at least two players to start.
 
-Open the downloaded folder in Visual Studio Code.
-Run the Server
+## Getting Started
 
-Open a terminal in VSCode and run the following command to start the server:
-bash
-Copy code
-npm run dev
-Open the Game
+Follow these steps to set up and play the game:
 
-Use a live server to open the game in your browser.
-Play the Game
+### Prerequisites
 
-Duplicate the game link in a new tab or browser window.
-Since this is a multiplayer game, you need at least two tabs or players to start.
+- **Node.js**: Ensure you have Node.js installed on your system.
+- **Visual Studio Code**: Use this or another code editor of your choice.
+- **Browser**: A modern browser to play the game.
+
+### Installation
+
+1. **Download or Clone the Repository**  
+   Download the project folder or clone it using the following command:  
+   ```bash
+   git clone <repository-url>
