@@ -1,0 +1,22 @@
+{
+  "name": "ws-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1",
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
